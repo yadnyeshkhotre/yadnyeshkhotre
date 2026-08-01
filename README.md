@@ -106,27 +106,28 @@ fun_fact: I debug better with coffee ☕
 
 <br/>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yadnyeshkhotre&theme=radical&no-frame=true&row=1&column=7"/>
-</div>
-
-<br/>
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/yadnyeshkhotre/ICEM-Tech-Fest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadnyeshkhotre&repo=ICEM-Tech-Fest&theme=radical"/>
+  <img src="https://img.shields.io/badge/ICEM--Tech--Fest-View_Repo-2575fc?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<img src="https://img.shields.io/github/stars/yadnyeshkhotre/ICEM-Tech-Fest?style=for-the-badge&color=6a11cb"/>
+
+<br/><br/>
+
 <a href="https://github.com/yadnyeshkhotre/bugzy-invoice-snap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadnyeshkhotre&repo=bugzy-invoice-snap&theme=radical"/>
+  <img src="https://img.shields.io/badge/bugzy--invoice--snap-View_Repo-2575fc?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<img src="https://img.shields.io/github/stars/yadnyeshkhotre/bugzy-invoice-snap?style=for-the-badge&color=6a11cb"/>
+
+<br/><br/>
+
 <a href="https://github.com/yadnyeshkhotre/Code-Loom-Weave-the-Missing-Logic">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadnyeshkhotre&repo=Code-Loom-Weave-the-Missing-Logic&theme=radical"/>
+  <img src="https://img.shields.io/badge/Code--Loom-View_Repo-2575fc?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<img src="https://img.shields.io/github/stars/yadnyeshkhotre/Code-Loom-Weave-the-Missing-Logic?style=for-the-badge&color=6a11cb"/>
 
 </div>
 
