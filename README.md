@@ -118,14 +118,14 @@ fun_fact: I debug better with coffee ☕
 
 <div align="center">
 
-<a href="https://github.com/prince0raj/glitch-operation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prince0raj&repo=glitch-operation&theme=radical"/>
-</a>
 <a href="https://github.com/yadnyeshkhotre/ICEM-Tech-Fest">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadnyeshkhotre&repo=ICEM-Tech-Fest&theme=radical"/>
 </a>
 <a href="https://github.com/yadnyeshkhotre/bugzy-invoice-snap">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadnyeshkhotre&repo=bugzy-invoice-snap&theme=radical"/>
+</a>
+<a href="https://github.com/yadnyeshkhotre/Code-Loom-Weave-the-Missing-Logic">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadnyeshkhotre&repo=Code-Loom-Weave-the-Missing-Logic&theme=radical"/>
 </a>
 
 </div>
@@ -137,8 +137,6 @@ fun_fact: I debug better with coffee ☕
 <div align="center">
 <img src="https://raw.githubusercontent.com/yadnyeshkhotre/yadnyeshkhotre/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </div>
-
-> ⚠️ The snake animation above requires a one-time GitHub Actions setup — see instructions below.
 
 <br/>
 
