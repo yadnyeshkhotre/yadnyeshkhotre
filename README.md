@@ -1,20 +1,20 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Yadnyesh%20Khotre&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Lifelong%20Learner&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Yadnyesh%20Khotre&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20products%20%26%20teach%20people%20to%20build%20them&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- Typing animation -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;I+build+things+for+the+web+%F0%9F%9A%80;I+love+open+source+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&lines=Co-Founder+%40+Nukaazo+%F0%9F%9B%92;Founder+%40+Track+Your+DSA+%F0%9F%93%88;Ex-ML+Engineer+%40+SalesCode.ai+%F0%9F%A4%96;DSA+Mentor+%F0%9F%8E%93+%7C+Building+in+public+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social badges -->
-<a href="https://www.linkedin.com/in/yadnyesh-khotre-0a5305174/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yadnyesh-khotre/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:yadnyeshkhotre.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://nukaazo.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://nukaazo.com"><img src="https://img.shields.io/badge/Nukaazo-000000?style=for-the-badge&logo=shopify&logoColor=white"/></a>
+<a href="https://www.trackyourdsa.com"><img src="https://img.shields.io/badge/Track_Your_DSA-2575FC?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
 </div>
 
@@ -24,20 +24,26 @@
 
 ```yaml
 name: Yadnyesh Khotre
-role: Full-Stack Developer
+role: Founder · Full-Stack & ML Engineer · DSA Mentor
 location: Pune, India
-currently_working_on: Nukaazo - A Hyperlocal E-commerce Platform
+building: [Nukaazo, Track Your DSA, LevelUp Coding]
+previously: ML Engineer → Associate Product Manager @ SalesCode.ai
+education: B.E. AI & ML (2025) · MBA Project Management (2027)
 currently_learning: Rust, System Design
-ask_me_about: React, Node.js, Python, DevOps
-fun_fact: I debug better with coffee ☕
+ask_me_about: DSA, React, Node.js, Python, Machine Learning
 ```
 
-- 🔭 I'm currently working on **[Nukaazo](https://nukaazo.com) — A Hyperlocal E-commerce Platform**
-- 🌱 I'm currently learning **Rust & System Design**
-- 👯 I'm looking to collaborate on **open-source projects**
-- 💬 Ask me about **React, Node.js, Python, Cloud & DevOps**
-- 📫 How to reach me: **yadnyeshkhotre.dev@gmail.com**
-- ⚡ Fun fact: **I turn coffee into code**
+I started school at a Z.P. school where books, food and uniform were free. Since then: a tuition-fee-waiver engineering seat, **20+ projects**, **6 major hackathons**, **2 failed startups**, the **highest package in my graduating class**, and a stint as an **ML Engineer**. Now I build products and teach people how to build them.
+
+<br/>
+
+## 🚀 What I'm Building
+
+| Project | What it is |
+|---|---|
+| 🛒 **[Nukaazo](https://nukaazo.com)** | Hyperlocal e-commerce — helping neighbourhood shops get discovered and paid online. *Shop local, pay smart.* |
+| 📈 **[Track Your DSA](https://www.trackyourdsa.com)** | A smarter way to track your DSA preparation for placements and interviews. |
+| 🎓 **LevelUp Coding with Yadnyesh** | Mentoring students from zero to their first tech role. |
 
 <br/>
 
@@ -67,6 +73,12 @@ fun_fact: I debug better with coffee ☕
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+
+**AI / ML**
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 **Database & Cloud**
 
@@ -98,15 +110,11 @@ fun_fact: I debug better with coffee ☕
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadnyeshkhotre&theme=radical" alt="GitHub Streak"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yadnyeshkhotre&theme=redical" width="100%"/>
-
 </div>
 
 <br/>
 
-## 🚀 Featured Projects
+## 🧩 Featured Repositories
 
 <div align="center">
 
@@ -153,11 +161,12 @@ fun_fact: I debug better with coffee ☕
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/yadnyesh-khotre-0a5305174/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-<a href="https://instagram.com/your-instagram"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+**Students preparing for placements, local businesses going digital, builders who like shipping — let's talk.**
+
+<a href="https://www.linkedin.com/in/yadnyesh-khotre/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:yadnyeshkhotre.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://nukaazo.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://nukaazo.com"><img src="https://img.shields.io/badge/-Nukaazo-000000?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.trackyourdsa.com"><img src="https://img.shields.io/badge/-Track_Your_DSA-2575FC?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 
 </div>
 
